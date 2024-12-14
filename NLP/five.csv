@@ -1,1 +1,2 @@
-
+id,rewrite_prompt
+9559194,"the competition dataset comprises text passages that have been rewritten by the Gemma LLM . the goal of the competition is to determine what prompt was used to rewrite each original text . expect roughly 2,000 original texts"
